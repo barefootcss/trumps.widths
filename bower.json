@@ -1,0 +1,21 @@
+{
+  "name": "bare-widths",
+  "version": "0.1.0",
+  "authors": [
+    "Eric Harms <barefoot.css@gmail.com>"
+  ],
+  "description": "The widths module is a helper class for setting widths on elements.",
+  "main": "_trumps.widths.scss",
+  "keywords": [
+    "barefoot",
+    "oocss",
+    "css",
+    "framework"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/barefootcss/trumps.widths",
+  "dependencies": {
+    "bare-defaults": "~0.1.0",
+    "bare-functions": "~0.1.0" 
+  }
+}
