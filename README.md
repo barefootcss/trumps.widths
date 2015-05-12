@@ -3,9 +3,9 @@
 The `widths` module is a helper class for setting widths on elements.
 
 	<div class="grid">
-		<div class="grid__item w-1-3 mw-1-1"></div>
-		<div class="grid__item w-1-3 mw-1-1"></div>
-		<div class="grid__item w-1-3 mw-1-1"></div>
+		<div class="grid__item w-1-3 sw-1-1"></div>
+		<div class="grid__item w-1-3 sw-1-1"></div>
+		<div class="grid__item w-1-3 sw-1-1"></div>
 	</div>
 
 ## Installation
