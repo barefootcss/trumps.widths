@@ -33,7 +33,7 @@
 // @media: Provide additional classes to change the width sizes for small screens.
 //
 
-@media (max-width: bareEm($bare-bp-s)) {
+@media (max-width: bareMedia($bare-bp-s)) {
 
 	.#{$bare-ns}sw-1-1 { width: 100%; }
 	.#{$bare-ns}sw-1-2 { width: 50%; }
@@ -48,7 +48,7 @@
 // @media: Provide additional classes to change the width sizes for medium screens.
 //
 
-@media (max-width: bareEm($bare-bp-m)) {
+@media (max-width: bareMedia($bare-bp-m)) {
 
 	.#{$bare-ns}mw-1-1 { width: 100%; }
 	.#{$bare-ns}mw-1-2 { width: 50%; }
