@@ -41,7 +41,7 @@
 	.#{$bare-ns}sw-1-4 { width: 25%; }
 	.#{$bare-ns}sw-2-3 { width: 66.6%; }
 	.#{$bare-ns}sw-3-4 { width: 75%; }
-
+	.#{$bare-ns}no-sw  { display: none; } 
 }
 
 //
@@ -56,5 +56,5 @@
 	.#{$bare-ns}mw-1-4 { width: 25%; }
 	.#{$bare-ns}mw-2-3 { width: 66.6%; }
 	.#{$bare-ns}mw-3-4 { width: 75%; }
-
+	.#{$bare-ns}no-mw  { display: none; } 
 }
