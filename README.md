@@ -12,7 +12,7 @@ The `widths` module is a helper class for setting widths on elements.
 
 Install using Bower:
 
-	$ bower --save bare-widths
+	$ bower install --save bare-widths
 
 Import into project:
 
